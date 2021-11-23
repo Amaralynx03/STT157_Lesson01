@@ -1,0 +1,14 @@
+# Methodology
+
+insert methodology here
+
+According to [@belsare2018employment]
+
+`r stringi::stri_rand_lipsum(1)`
+
+`r stringi::stri_rand_lipsum(1)`
+
+`r stringi::stri_rand_lipsum(1)`
+
+`r stringi::stri_rand_lipsum(1)`
+
